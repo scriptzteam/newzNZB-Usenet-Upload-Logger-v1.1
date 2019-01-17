@@ -1,4 +1,21 @@
-13:45.
+13:50.
+13:49 -> Mad.City.1997.BRRip.XviD.MP3-XVID_[d885c5cef]
+13:49 -> The.Hotel.Inspector.Returns.S06E02.1080p.HDTV.h264-PLUTONiUM_[1ece9501d]
+13:47 -> Farmen.S12E09.SWEDiSH.720p.WEB.X264-EXECUTION_[10f6a593d]
+13:46error
+13:46 -> Farmen.S12E09.SWEDiSH.1080p.WEB.X264-EXECUTION_[a19d22c97]
+13:45 -> The.Undateables.S10E02.1080p.HDTV.h264-PLUTONiUM_[2b464f9e3]
+13:44 -> MP3-daily-2019-January-16-Reggae_[792eec1a1]
+13:44 -> MP3-daily-2019-January-16-Reggae_[166dc3a76]
+13:44 -> MP3-daily-2019-January-16-Reggae_[94e9937fc]
+13:44 -> MP3-daily-2019-January-16-Reggae_[7934024d4]
+13:44 -> MP3-daily-2019-January-16-Reggae_[acf7cbcbc]
+13:44 -> MP3-daily-2019-January-16-Reggae_[50810e872]
+13:43 -> MP3-daily-2019-January-16-Reggae_[e840874be]
+13:43 -> MP3-daily-2019-January-16-Reggae_[29b7fa43c]
+13:43 -> MP3-daily-2019-January-16-Reggae_[b9d772ce3]
+13:43 -> MP3-daily-2019-January-16-Reggae_[6a49ef3ec]
+13:43 -> MP3-daily-2019-January-16-Reggae_[5651ea8d9]
 13:43 -> Ekdal.Och.Ekdal.S01E01.SWEDiSH.720p.WEB.H264-EXECUTION_[528a73f44]
 13:43 -> MP3-daily-2019-January-16-Reggae_[932d4e2ff]
 13:42 -> MP3-daily-2019-January-16-Reggae_[097d8f828]
@@ -1510,6 +1527,7 @@
 12:11 -> MP3-daily-2019-January-16-Death.Metal_[db316170b]
 12:11 -> Papa_Roach-Who_Do_You_Trust-WEB-2019-ENTiTLED_[1e0a38bbf]
 12:11 -> MP3-daily-2019-January-16-Death.Metal_[c4f39637c]
+12:11_Chicago.PD.S06E11.iNTERNAL.REPACK.720p.HEVC.x265-MeGusta_[510df3c09].BCaIno
 12:10 -> MP3-daily-2019-January-16-Death.Metal_[57f059714]
 12:10 -> Modern.Family.S10E12.iNTERNAL.720p.HEVC.x265-MeGusta_[a0b265870]
 12:10 -> K_Leimer-Three_Adaptations-(DLLEIMETHRE)-WEB-2019-ENSLAVE_[2d1c96b35]
@@ -13237,7 +13255,6 @@
 03:53 -> PRiVATE_PiCTURE__GiRL__14529350062318.jpg_[c1fcbf64b]
 03:53 -> Solid.Angle.Maya.To.Arnold.v3.1.2.1.For.Maya.2016.5.LINUX-AMPED_[8deba1dba]
 03:53 -> Chicago.Fire.S07E11.HDTV.x264-SVA_[e7f82b6c1]
-03:53error
 03:53 -> Solid.Angle.Maya.To.Arnold.v3.1.2.1.For.Maya.2018.LINUX-AMPED_[a41c1d351]
 03:53 -> Chicago.Fire.S07E11.720p.HDTV.x264-AVS_[ff846b229]
 03:52 -> PRiVATE_PiCTURE__GiRL__14529349701914.jpg_[4a6226800]
