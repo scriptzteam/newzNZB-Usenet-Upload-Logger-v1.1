@@ -1,4 +1,3 @@
-01:00.
 00:59 -> Vera.S09E04.1080p.HDTV.H264-MTB[newzNZB]_[04be108b8]
 00:59 -> The.Rap.Game.S05E05.Style.Wars.HDTV.x264-CRiMSON[newzNZB]_[7b1374d2f]
 00:59 -> Autechre-AE_LIVE_DENVER_171015-(WARP36028)-WEB-2019-ENSLAVE_iNT_[732f7efe4]
@@ -58,6 +57,7 @@
 00:51 -> Future.Man.S02E13.FiNAL.FRENCH.720p.WEBRip.x264-BRiNK_[aeca96c45]
 00:50 -> Project.Runway.All.Stars.S07E05.720p.WEB.h264-TBS_[d119e4d08]
 00:50 -> Vera.S09E04.1080p.HDTV.H264-MTB[newzNZB]_[5a6da6d84]
+00:50.
 00:50 -> The.Rap.Game.S05E05.Style.Wars.HDTV.x264-CRiMSON[newzNZB]_[9d06f0db1]
 00:49 -> The.Rap.Game.S05E05.Style.Wars.720p.HDTV.x264-CRiMSON[newzNZB]_[42002bfd1]
 00:49 -> Vera.S09E04.HDTV.x264-MTB[newzNZB]_[dbbf1bd9e]
