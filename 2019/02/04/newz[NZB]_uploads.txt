@@ -1,7 +1,10 @@
-01:10.
-01:10_R3hab_-_I_Need_R3hab_321-CABLE-11-17-2018-TALiON_[0629e342c].btXubd
+01:00.
+00:59 -> Vera.S09E04.1080p.HDTV.H264-MTB[newzNZB]_[04be108b8]
+00:59 -> The.Rap.Game.S05E05.Style.Wars.HDTV.x264-CRiMSON[newzNZB]_[7b1374d2f]
 00:59 -> Autechre-AE_LIVE_DENVER_171015-(WARP36028)-WEB-2019-ENSLAVE_iNT_[732f7efe4]
+00:59 -> The.Rap.Game.S05E05.Style.Wars.720p.HDTV.x264-CRiMSON[newzNZB]_[606f6c722]
 00:59 -> Autechre-AE_LIVE_MONTREAL_021015-(WARP36015)-WEB-2019-ENSLAVE_iNT_[52fae36ac]
+00:58 -> The.Cloverfield.Paradox.2018.BDRip.x264-VETO[newzNZB]_[19c70b58a]
 00:58 -> Les.Miserables.S01E06.HDTV.x264-MTB[newzNZB]_[3cc7fe649]
 00:58 -> Les.Miserables.S01E06.720p.HDTV.x264-FoV[newzNZB]_[d14ddeb89]
 00:58 -> Sunrider_-_This_Beat-(AND170)-WEB-2013-ZzZz_iNT_[59bbb8ea6]
@@ -25,7 +28,11 @@
 00:55 -> Autechre-AE_LIVE_MONTREAL_021015-(WARP36015)-WEB-2019-ENSLAVE_iNT_[0b78f1ef1]
 00:55 -> Puppy.Dog.Pals.S02E08.720p.HDTV.x264-W4F_[929fdc2ca]
 00:55 -> Autechre-AE_LIVE_DENVER_171015-(WARP36028)-WEB-2019-ENSLAVE_iNT_[4c5d476bb]
+00:55 -> Vera.S09E04.1080p.HDTV.H264-MTB[newzNZB]_[da84e051f]
 00:55 -> Autechre-AE_LIVE_BRUSSELS_031014-(WARP3602)-WEB-2015-ENSLAVE_iNT_[74314f014]
+00:54 -> The.Rap.Game.S05E05.Style.Wars.HDTV.x264-CRiMSON[newzNZB]_[d3f7cdd34]
+00:54 -> The.Rap.Game.S05E05.Style.Wars.720p.HDTV.x264-CRiMSON[newzNZB]_[f04fc9816]
+00:54 -> The.Cloverfield.Paradox.2018.BDRip.x264-VETO[newzNZB]_[e5d5e80f5]
 00:54 -> Autechre-AE_LIVE_KRAKOW_200914-(WARP3601)-WEB-2015-ENSLAVE_iNT_[bafa1dab7]
 00:54 -> Les.Miserables.S01E06.HDTV.x264-MTB[newzNZB]_[8d613a129]
 00:53 -> Les.Miserables.S01E06.720p.HDTV.x264-FoV[newzNZB]_[c2ce1af3b]
@@ -50,6 +57,8 @@
 00:51 -> Bring.It.S05E16.So.You.Think.You.Can.Choreograph.720p.HDTV.x264-CRiMSON[newzNZB]_[a3f23c1e9]
 00:51 -> Future.Man.S02E13.FiNAL.FRENCH.720p.WEBRip.x264-BRiNK_[aeca96c45]
 00:50 -> Project.Runway.All.Stars.S07E05.720p.WEB.h264-TBS_[d119e4d08]
+00:50 -> Vera.S09E04.1080p.HDTV.H264-MTB[newzNZB]_[5a6da6d84]
+00:50 -> The.Rap.Game.S05E05.Style.Wars.HDTV.x264-CRiMSON[newzNZB]_[9d06f0db1]
 00:49 -> The.Rap.Game.S05E05.Style.Wars.720p.HDTV.x264-CRiMSON[newzNZB]_[42002bfd1]
 00:49 -> Vera.S09E04.HDTV.x264-MTB[newzNZB]_[dbbf1bd9e]
 00:49 -> Vera.S09E04.1080p.HDTV.H264-MTB[newzNZB]_[794ac487c]
