@@ -1,4 +1,8 @@
-14:34.
+14:39 -> [PRiVATE]_AC5C1E2674CF648F5CFE8DD13A0C1F11A1D03A27.torrent.added_[333977827]
+14:39 -> [PRiVATE]_A471C9A91E35F4016A6BB6017748B1680C3CCFFE.torrent.added_[240d499bb]
+14:39 -> Major.Crimes.S04E01.720p.WEB-DL.DD5.1.x264_[45646e842]
+14:37 -> Toolchefs.Atoms.Crowd.v2.7.1.for.Houdini.16.5.634-AMPED_[417e290f8]
+14:35 -> Major.Crimes.S04E04.720p.WEB-DL.DD5.1.x264_[766843e7e]
 14:34 -> Toolchefs.Atoms.Crowd.v2.7.1.for.Katana-AMPED_[f67ff761b]
 14:33 -> Toolchefs.Atoms.Crowd.v2.7.1.for.Maya-AMPED_[d81c01c8a]
 14:29 -> Major.Crimes.S04E20.720p.WEB-DL.DD5.1.x264_[a7e835c3e]
